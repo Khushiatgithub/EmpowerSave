@@ -136,13 +136,14 @@ Users can see the **future impact of financial decisions** before acting.
 ---
 
 
-<img width="1919" height="900" alt="Screenshot 2026-01-30 170236" src="https://github.com/user-attachments/assets/5d07d081-4e55-4a53-9785-eb9a40fd71d7" />
 
 <img width="1896" height="732" alt="Screenshot 2026-01-29 215554" src="https://github.com/user-attachments/assets/940fec23-70fb-4a30-9ff3-c3d9c0f71413" />
 
 <img width="1855" height="748" alt="Screenshot 2026-01-29 215604" src="https://github.com/user-attachments/assets/035bf464-3153-4ab5-9111-0cda1faa2fab" />
 
 <img width="1919" height="890" alt="Screenshot 2026-01-29 215617" src="https://github.com/user-attachments/assets/fdb4bccb-a8c5-40e7-9dd0-47e66446601b" />
+
+<img width="1919" height="900" alt="Screenshot 2026-01-30 170236" src="https://github.com/user-attachments/assets/5d07d081-4e55-4a53-9785-eb9a40fd71d7" />
 
 <img width="1916" height="888" alt="Screenshot 2026-01-30 170311" src="https://github.com/user-attachments/assets/b921d42d-5d58-4fb5-83e0-b7ee02b26b52" />
 
