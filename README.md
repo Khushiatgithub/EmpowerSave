@@ -123,6 +123,7 @@ Instead of static advice, EmpowerSave provides:
 Users can see the **future impact of financial decisions** before acting.
 
 ---
+<img width="1896" height="732" alt="Screenshot 2026-01-29 215554" src="https://github.com/user-attachments/assets/940fec23-70fb-4a30-9ff3-c3d9c0f71413" />
 
 # 📈 Business Potential
 
@@ -134,4 +135,5 @@ Users can see the **future impact of financial decisions** before acting.
 - Scalable AI advisory platform  
 
 ---
+
 
